@@ -30,17 +30,25 @@ What all i learnt?
 # Deep Learning Specialization
 ## 1. Neural Networks and Deep learning   
 ### WEEK 1 | 27 July    
-[Resources]()   
+[Resources](https://drive.google.com/drive/folders/1xAjxhIZRBQCWW6jQMhnpR6wfP6qVCy_k?usp=sharing)   
 What all i learnt? 
 -  In this week we have introduction to neural networks and its examples    
 -  Check the hand written notes for more information    
 ### WEEK 2 | 27 July    
-[Resources](https://drive.google.com/drive/folders/1A6ywFEvLgzjdp0XCVBmHSUogFiZMP_B-?usp=sharing)   
+[Resources](https://drive.google.com/drive/folders/1xAjxhIZRBQCWW6jQMhnpR6wfP6qVCy_k?usp=sharing)   
 What all i learnt?    
 -  Logistic regression (binary classification)
 -  Gradient Descent in Logistic Regression, Cost Funtion
 -  Vectorization    
--  Quiz
+
+### WEEK 3 | 1 August
+[Resources](https://drive.google.com/drive/folders/1xAjxhIZRBQCWW6jQMhnpR6wfP6qVCy_k?usp=sharing)   
+What all i learnt?
+-  Forward Propagation
+-  Backward Propagation
+-  Gardients
+-  single hidden layer neural network
+
 
 
 
