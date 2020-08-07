@@ -46,8 +46,16 @@ What all i learnt?
 What all i learnt?
 -  Forward Propagation
 -  Backward Propagation
--  Gardients
--  single hidden layer neural network
+-  Gardients and updating the weights and bias
+-  single hidden layer neural network   
+### WEEK 4 | 5 August   
+[Resources](https://drive.google.com/drive/folders/1xAjxhIZRBQCWW6jQMhnpR6wfP6qVCy_k?usp=sharing)   
+What all i learnt?
+-  L layered Neural Network
+-  Forward and Back Propagations
+-  Gardients and updating the weights and bias 
+-  Implementing L layer neural network for a Simple Classification Problem (Cat vs no-Cat)
+
 
 
 
